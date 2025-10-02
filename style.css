@@ -1,0 +1,32 @@
+/*Reset*/
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+
+.logo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+nav {
+    display: inline-block;
+    float: right;
+    color:beige;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: disc;
+}
+a:hover {
+    color: aqua;
+    cusor: pointer;
+    text-decoration: dashed;
+}
+
+a:active {
+    color: blueviolet;
+
+}
